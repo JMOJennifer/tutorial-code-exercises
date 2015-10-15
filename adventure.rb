@@ -1,6 +1,3 @@
-/DEBUG IT/
-
-
 puts 'You are in a room with two doors. Which door do you choose: 1 or 2?'
 input = gets.chomp.to_i
 
